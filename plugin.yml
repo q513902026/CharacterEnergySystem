@@ -1,0 +1,6 @@
+name: CharacterEnergySystem
+version: fancy
+description: this plugin join in an additional energy system.
+author: HopeAsd
+
+main: me.hope.asd.EnergySystem
